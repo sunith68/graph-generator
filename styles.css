@@ -1,0 +1,27 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+}
+
+h2{
+	padding:10px 0px;
+	text-align: center;
+	background:#2F4F4F;
+	color:#E0FFFF;
+}
+div	{
+	margin:10px 0px;
+	text-align: center;
+}
+canvas{
+	margin:auto;
+	display: block;
+}
+label{
+	padding: 0px 2px;
+	margin :0px 2px;
+}
+button{
+	margin:0px 3px; 
+}
